@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Jeongwook Oh (@hiphophammer)
-- 👀 I’m interested in building a backend career path
-- 🌱 I’m currently learning SQL, NodeJS
+- 👋 Name:      Jeongwook Oh (@hiphophammer)
+- 👀 Interest:  backend development
+- 💻 Motto:     become a smarter person than I was yesterday (steady efforts)
+- ⌨️ Languages: C, Java, Python, JavaScript
+- 🪴 Focus:     SQL, NodeJS, Cloud Computing
+- 👥 www.linkedin.com/in/jw-oh/
 - 📫 jeongwook0704@gmail.com
 
 <!---
