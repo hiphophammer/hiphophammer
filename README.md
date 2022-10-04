@@ -1,5 +1,6 @@
 - 👋 I am:      Jeongwook Oh (@hiphophammer)
 - 👀 Interest:  Backend development
+- 🧗 Goal:      Fullstack
 - 💻 Motto:     Become a smarter person than I was yesterday (steady efforts)
 - ⌨️ Languages: C, Java, Python, JavaScript
 - 🪴 Focus:     SQL, NodeJS, Cloud Computing
