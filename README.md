@@ -1,6 +1,6 @@
-- 👋 Name:      Jeongwook Oh (@hiphophammer)
-- 👀 Interest:  backend development
-- 💻 Motto:     become a smarter person than I was yesterday (steady efforts)
+- 👋 I am:      Jeongwook Oh (@hiphophammer)
+- 👀 Interest:  Backend development
+- 💻 Motto:     Become a smarter person than I was yesterday (steady efforts)
 - ⌨️ Languages: C, Java, Python, JavaScript
 - 🪴 Focus:     SQL, NodeJS, Cloud Computing
 - 👥 www.linkedin.com/in/jw-oh/
