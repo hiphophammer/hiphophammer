@@ -6,7 +6,7 @@
 - 🪴 Focus:     SQL, Database, Cloud Computing
 - 👥 www.linkedin.com/in/jw-oh/
 - 📫 jeongwook0704@gmail.com
-- 🏠 https://hiphophammer.github.io/jw.github.io/
+- 🏠 hiphophammer.github.io/jw.github.io/
 
 <!---
 hiphophammer/hiphophammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
