@@ -3,6 +3,7 @@
 - 👀 Interest:  Backend development
 - 🧗 Goal:      Fullstack
 - ⌨️ Languages: C, Java, Python, JavaScript (Node.js), SQL
+- 🌱 Learning:  React.js, Vue.js
 - 👥 www.linkedin.com/in/jw-oh/
 - 📫 jeongwook0704@gmail.com
 
