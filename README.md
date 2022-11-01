@@ -1,7 +1,6 @@
 - 🏠 https://hiphophammer.github.io/jw.github.io/
 - 👋 I am:      Jeongwook Oh (@hiphophammer)
-- 👀 Interest:  Backend development
-- 🧗 Goal:      Fullstack
+- 👀 Interest:  Back-end/full-stack development
 - ⌨️ Skills:    C, Java, **Python**, **JavaScript (Node.js)**, TypeScript, SQL (MySQL, PostgreSQL)
 - 🌱 Learning:  React.js, Next.js
 - 👥 www.linkedin.com/in/jw-oh/
