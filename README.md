@@ -1,8 +1,10 @@
 - 🏠 https://hiphophammer.github.io/jw.github.io/
 - 👋 I am:      Jeongwook Oh (@hiphophammer)
 - 👀 Interest:  Back-end/full-stack development
-- ⌨️ Skills:    C, Java, **Python**, **JavaScript (Node.js)**, React.js, TypeScript, SQL (MySQL, PostgreSQL), Express.js, Flask
-- 🌱 Learning:  Next.js
+- ⌨️ Front end: **JavaScript**, React
+- ⌨️ Back end:  **Node.js**, Express, TypeScript, **Python**, Flask, SQL (MySQL, PostgreSQL, SQLAlchemy), MongoDB, Java
+- ⌨️ OS: Linux, Windows
+- ⌨️ Others:    C, C++, C#
 - 👥 www.linkedin.com/in/jw-oh/
 - 📫 jeongwook0704@gmail.com
 
