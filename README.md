@@ -1,3 +1,3 @@
 WIP Projects
-- Discord Bot
-- Personal Blog
+- Discord Bot ([Repository](https://github.com/hiphophammer/DiscordBot1))
+- Personal Blog (Planned)
